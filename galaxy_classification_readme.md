@@ -48,7 +48,7 @@ Sample classes include `Smooth`, `Spiral`, `Bar Present`, `Ring`, `Irregular`, `
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### Requirements
 ```bash
